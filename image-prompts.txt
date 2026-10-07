@@ -1,0 +1,117 @@
+==========================================================
+ABC라이프케어 랜딩 페이지 이미지 생성 프롬프트
+==========================================================
+사용법
+1. 각 블록의 [PROMPT] 아래 문단을 그대로 복사해 이미지 생성 AI
+   (Midjourney, DALL·E, Firefly, Imagen 등)에 붙여넣으세요.
+2. 생성한 이미지는 index.html 과 같은 폴더의 images/ 폴더에
+   [저장 파일명] 그대로 저장하면 페이지에 자동으로 표시됩니다.
+   (이미지가 없으면 파스텔 배경이 대신 표시됩니다.)
+3. Midjourney 사용 시 프롬프트 끝의 --ar 비율 옵션을 그대로 쓰고,
+   다른 도구에서는 --ar 부분을 지우고 [비율]을 설정에서 지정하세요.
+
+공통 스타일 키워드 (톤을 바꾸고 싶을 때 이 부분만 교체)
+soft pastel palette of sage mint, blush pink, baby blue, butter yellow and lavender, minimal, clean, airy, warm natural light, calm and trustworthy mood
+
+
+----------------------------------------------------------
+[01] 히어로 메인 이미지
+저장 파일명: images/hero.jpg   |   비율: 1:1 (정사각형에 가까운 세로형)
+----------------------------------------------------------
+[PROMPT]
+A warm, minimal lifestyle photo of a Korean family of three generations — grandparents, a middle-aged couple and a child — sitting together on a light sofa in a bright, airy living room, smiling and talking comfortably, soft pastel palette of sage mint, blush pink, baby blue and butter yellow, clean beige interior with plants, warm natural window light, shallow depth of field, calm and trustworthy mood, editorial photography, high resolution, no text --ar 1:1
+
+
+----------------------------------------------------------
+[02] 서비스 - 건강 상담 일러스트
+저장 파일명: images/service-health.jpg   |   비율: 1:1
+----------------------------------------------------------
+[PROMPT]
+Minimal flat illustration of health care: a heart with a gentle pulse line, a stethoscope, a small green leaf and a glass of water, simple rounded shapes, soft pastel blush pink background, pastel sage mint and white accents, clean vector style, lots of negative space, centered composition, no text --ar 1:1
+
+
+----------------------------------------------------------
+[03] 서비스 - 재무 상담 일러스트
+저장 파일명: images/service-finance.jpg   |   비율: 1:1
+----------------------------------------------------------
+[PROMPT]
+Minimal flat illustration of personal finance: a stack of rounded coins, a small piggy bank and a gently rising bar chart, simple rounded shapes, soft pastel butter yellow background, pastel sage mint and white accents, clean vector style, lots of negative space, centered composition, no text --ar 1:1
+
+
+----------------------------------------------------------
+[04] 서비스 - 가족 상담 일러스트
+저장 파일명: images/service-family.jpg   |   비율: 1:1
+----------------------------------------------------------
+[PROMPT]
+Minimal flat illustration of family relationships: a small house with a heart above the roof and simple faceless figures of parents and a child holding hands, simple rounded shapes, soft pastel baby blue background, pastel pink and white accents, clean vector style, lots of negative space, centered composition, no text --ar 1:1
+
+
+----------------------------------------------------------
+[05] 서비스 - 은퇴 상담 일러스트
+저장 파일명: images/service-retire.jpg   |   비율: 1:1
+----------------------------------------------------------
+[PROMPT]
+Minimal flat illustration of a peaceful retirement: a cozy armchair beside a potted plant, a cup of tea and a small calendar with a sun, simple rounded shapes, soft pastel lavender background, pastel sage mint and butter yellow accents, clean vector style, lots of negative space, centered composition, no text --ar 1:1
+
+
+----------------------------------------------------------
+[06] 진행 방식 1단계 - 상담 신청
+저장 파일명: images/process-1.jpg   |   비율: 4:3
+----------------------------------------------------------
+[PROMPT]
+Minimal flat illustration of a person filling out a simple online form on a smartphone, a large friendly checkmark and a paper plane floating nearby, simple rounded shapes, soft pastel butter yellow background, pastel sage mint and white accents, clean vector style, generous negative space, no text --ar 4:3
+
+
+----------------------------------------------------------
+[07] 진행 방식 2단계 - 전문가 배정
+저장 파일명: images/process-2.jpg   |   비율: 4:3
+----------------------------------------------------------
+[PROMPT]
+Minimal flat illustration of matching with an expert: a friendly counselor profile card connected by a soft dotted line to a client profile card with a small heart in the middle, simple rounded shapes, soft pastel baby blue background, pastel sage mint and white accents, clean vector style, generous negative space, no text --ar 4:3
+
+
+----------------------------------------------------------
+[08] 진행 방식 3단계 - 맞춤 상담
+저장 파일명: images/process-3.jpg   |   비율: 4:3
+----------------------------------------------------------
+[PROMPT]
+Minimal flat illustration of a one-on-one consultation: two people sitting across a small round table having a warm conversation, speech bubbles and a cup of tea, simple rounded shapes, soft pastel blush pink background, pastel sage mint and white accents, clean vector style, generous negative space, no text --ar 4:3
+
+
+----------------------------------------------------------
+[09] 후기 프로필 1 - 50대 (은퇴 상담)
+저장 파일명: images/review-1.jpg   |   비율: 1:1
+----------------------------------------------------------
+[PROMPT]
+Minimal flat avatar illustration of a friendly Korean man in his fifties with short gray-streaked hair and a gentle smile, head and shoulders, simple shapes, soft pastel butter yellow circular background, clean vector style, no text --ar 1:1
+
+
+----------------------------------------------------------
+[10] 후기 프로필 2 - 40대 (가족 상담)
+저장 파일명: images/review-2.jpg   |   비율: 1:1
+----------------------------------------------------------
+[PROMPT]
+Minimal flat avatar illustration of a warm Korean woman in her forties with shoulder-length hair and a kind smile, head and shoulders, simple shapes, soft pastel blush pink circular background, clean vector style, no text --ar 1:1
+
+
+----------------------------------------------------------
+[11] 후기 프로필 3 - 20대 (재무 상담)
+저장 파일명: images/review-3.jpg   |   비율: 1:1
+----------------------------------------------------------
+[PROMPT]
+Minimal flat avatar illustration of a cheerful young Korean adult in their twenties with a casual neat look and a bright smile, head and shoulders, simple shapes, soft pastel baby blue circular background, clean vector style, no text --ar 1:1
+
+
+----------------------------------------------------------
+[12] 상담 신청 섹션 이미지
+저장 파일명: images/apply.jpg   |   비율: 4:3
+----------------------------------------------------------
+[PROMPT]
+A calm, minimal photo of a friendly Korean counselor in a light cardigan smiling warmly while listening to a client across a clean wooden desk with a notebook and a cup of tea, bright airy consultation room, soft pastel palette of sage mint, baby blue and cream, warm natural window light, shallow depth of field, trustworthy and welcoming mood, editorial photography, no text --ar 4:3
+
+
+----------------------------------------------------------
+[선택] 부정 프롬프트 (Stable Diffusion 등 negative prompt 지원 도구용)
+----------------------------------------------------------
+[NEGATIVE PROMPT]
+text, letters, watermark, logo, signature, blurry, low quality, distorted faces, extra fingers, harsh shadows, oversaturated colors, dark mood, cluttered background
